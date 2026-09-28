@@ -105,3 +105,4 @@ python app.py
 6 * 7 = 42
 20 / 4 = 5.0
 ```
+Demonstrated live for evaluation.
